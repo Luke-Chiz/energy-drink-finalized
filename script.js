@@ -52,7 +52,7 @@ function login(){
   window.location.href="login.html"
 }
 function home(){
-  window.location.href="home.html"
+  window.location.href="index.html"
 }
 function popup() {
   window.alert("not all links are intended to work");
